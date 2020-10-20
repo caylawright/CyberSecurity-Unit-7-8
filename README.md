@@ -18,7 +18,7 @@ Time spent: **17** hours spent in total
  - Download the 3.1.3 zip file
  - Add the WordPress admin console through WP Dashboard. 
  - Once installed run "wpscan --url http://wpdistillery.vm --random-user-agent" into Kali
-  - [X] Affected source code:
+ [X] Affected source code: [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
     - 
 ### 2. (Required) Cross-Site Scripting
   - [X] Summary: 
