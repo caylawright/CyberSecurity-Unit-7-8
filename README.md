@@ -50,7 +50,7 @@ Time spent: **17** hours spent in total
   - [X] GIF Walkthrough: 
    <img src='vid4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [X] Steps to recreate: 
-  - Edit a new post, and insert <a href="[[caption code=">]</a><a title =" onmouseover=alert('Exploit4!') "> dont click the link.</a> " in the content link. Once you click the   - link the 'Exploit4!' window will pop up. 
+  - Edit a new post, and insert <a href="[caption code="></a><a title =" onmouseover=alert('Exploit4!') "> dont click the link.</a> " in the content link. Once you click the   - link the 'Exploit4!' window will pop up. 
   - [X] Affected source code:
    
 
