@@ -52,6 +52,7 @@ Time spent: **17** hours spent in total
   - [X] Steps to recreate: 
   - Edit a new post, and insert <a href="[caption code=">]</a><a title =" onmouseover=alert('Exploit4!') "> dont click the link.</a> in the content link. Once you click the   - link the 'Exploit4!' window will pop up. 
   - [X] Affected source code:
+  https://wpscan.com/vulnerability/8111
    
 
 ## Assets
