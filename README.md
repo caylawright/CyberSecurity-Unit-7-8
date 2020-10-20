@@ -6,50 +6,50 @@ Time spent: **17** hours spent in total
 
 ## Pentesting Report
 
-### 1. (Required) Vulnerability Name or ID
+### 1. (Required) User Enumeration
   - [X] Summary: 
    - Vulnerability types: XSS
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] GIF Walkthrough: 
+  - [X] Steps to recreate: 
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 2. (Required) Vulnerability Name or ID
+### 2. (Required) Cross-Site Scripting (XSS)
   - [X] Summary: 
    - Vulnerability types: XSS
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] GIF Walkthrough: 
+  - [X] Steps to recreate: 
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 3. (Required) Vulnerability Name or ID
+### 3. (Required) Cross-Site Scripting (XSS)
   - [X] Summary: 
    - Vulnerability types: XSS
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] GIF Walkthrough: 
+  - [X] Steps to recreate: 
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 4. (Optional) Vulnerability Name or ID
+### 4. (Optional) Cross-Site Scripting (XSS)
   - [X] Summary: 
    - Vulnerability types: XSS
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] GIF Walkthrough: 
+  - [X] Steps to recreate: 
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 5. (Optional) Vulnerability Name or ID
+### 5. (Optional) Cross-Site Scripting (XSS)
   - [X] Summary: 
-    - Vulnerability types: XSS
+   - Vulnerability types: XSS
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] GIF Walkthrough: 
+  - [X] Steps to recreate: 
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
 ## Assets
@@ -65,7 +65,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Trying to configure my Kali was the hardest part of this assinment. 
 
 ## License
 
