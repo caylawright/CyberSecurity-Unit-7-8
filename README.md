@@ -6,9 +6,8 @@ Time spent: **17** hours spent in total
 
 ## Pentesting Report
 
-### 1. (Required) User Enumeration
+### 1. (Required) WordPress Reflex Gallery User Enumeration
   - [X] Summary: 
-   - WordPress Reflex Gallery plugin version 3.1.3 suffers from a remote shell upload vulnerability.
    - Vulnerability types: User Enumeration
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
@@ -18,45 +17,39 @@ Time spent: **17** hours spent in total
   - [X] Steps to recreate: 
  - Download the 3.1.3 zip file
  - Add the WordPress admin console through WP Dashboard. 
- - Once installed run "wpscan --url http://wpdistillery.vm --random-agent" into Kali
+ - Once installed run "wpscan --url http://wpdistillery.vm --random-user-agent" into Kali
   - [X] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 2. (Required) Cross-Site Scripting (XSS)
+    - 
+### 2. (Required) Cross-Site Scripting
+  - [X] Summary: 
+   - Vulnerability types: XSS
+   - Tested in version: 4.1-4.2.1
+   - Fixed in version: 4.2.2
+  - [X] GIF Walkthrough: 
+  - [X] Steps to recreate:
+  Edit a new post, and insert  http:// site.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(2)> and press preview.  Then 2 will pop up in the new window. 
+  - [X] Affected source code:
+    
+### 3. (Required) Cross-Site Scripting 
   - [X] Summary: 
    - Vulnerability types: XSS
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
   - [X] Steps to recreate: 
+  Edit a new post, and insert  http:// site.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(3)> and press preview.  Then 3 will pop up in the new window. 
   - [X] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 3. (Required) Cross-Site Scripting (XSS)
+   
+### 4. (Optional) Cross-Site Scripting 
   - [X] Summary: 
    - Vulnerability types: XSS
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
   - [X] Steps to recreate: 
+  Edit a new post, and insert  <a href="[caption code=">]</a><a title =" onmouseover=alert('Exploit 4!') "> click the link.</a> in the content link. Once you click the link the window will pop up. 
   - [X] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 4. (Optional) Cross-Site Scripting (XSS)
-  - [X] Summary: 
-   - Vulnerability types: XSS
-   - Tested in version: 4.1-4.2.1
-   - Fixed in version: 4.2.2
-  - [X] GIF Walkthrough: 
-  - [X] Steps to recreate: 
-  - [X] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 5. (Optional) Cross-Site Scripting (XSS)
-  - [X] Summary: 
-   - Vulnerability types: XSS
-   - Tested in version: 4.1-4.2.1
-   - Fixed in version: 4.2.2
-  - [X] GIF Walkthrough: 
-  - [X] Steps to recreate: 
-  - [X] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
+   
 
 ## Assets
 
