@@ -26,7 +26,7 @@ Time spent: **17** hours spent in total
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
-   <img src='vid2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  - <img src='vid2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [X] Steps to recreate:
   - Edit a new post, and insert  http:// site.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(1)> and press preview.  Then 1 will pop up    in the new window. 
 - [X] Affected source code: 
