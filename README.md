@@ -19,7 +19,7 @@ Time spent: **17** hours spent in total
  - Add the WordPress admin console through WP Dashboard. 
  - Once installed run "wpscan --url http://wpdistillery.vm --random-user-agent" into Kali
  - [X] Affected source code: 
-    - 
+ 
 ### 2. (Required) Cross-Site Scripting
   - [X] Summary: 
    - Vulnerability types: XSS
