@@ -8,7 +8,8 @@ Time spent: **17** hours spent in total
 
 ### 1. (Required) User Enumeration
   - [X] Summary: 
-   - Vulnerability types: XSS
+   - WordPress Reflex Gallery plugin version 3.1.3 suffers from a remote shell upload vulnerability.
+   - Vulnerability types: User Enumeration
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
