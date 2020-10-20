@@ -17,36 +17,36 @@ Time spent: **17** hours spent in total
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. (Required) Vulnerability Name or ID
   - [X] Summary: 
-   -Vulnerability types: XSS
-   -Tested in version: 4.1-4.2.1
-   -Fixed in version: 4.2.2
+   - Vulnerability types: XSS
+   - Tested in version: 4.1-4.2.1
+   - Fixed in version: 4.2.2
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 3. (Required) Vulnerability Name or ID
   - [X] Summary: 
-   -Vulnerability types: XSS
-   -Tested in version: 4.1-4.2.1
-   -Fixed in version: 4.2.2
+   - Vulnerability types: XSS
+   - Tested in version: 4.1-4.2.1
+   - Fixed in version: 4.2.2
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 4. (Optional) Vulnerability Name or ID
   - [X] Summary: 
-   -Vulnerability types: XSS
-   -Tested in version: 4.1-4.2.1
-   -Fixed in version: 4.2.2
+   - Vulnerability types: XSS
+   - Tested in version: 4.1-4.2.1
+   - Fixed in version: 4.2.2
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 5. (Optional) Vulnerability Name or ID
   - [X] Summary: 
-    -Vulnerability types: XSS
-   -Tested in version: 4.1-4.2.1
-   -Fixed in version: 4.2.2
+    - Vulnerability types: XSS
+   - Tested in version: 4.1-4.2.1
+   - Fixed in version: 4.2.2
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
