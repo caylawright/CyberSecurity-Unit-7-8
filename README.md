@@ -8,9 +8,9 @@ Time spent: **17** hours spent in total
 
 ### 1. (Required) Vulnerability Name or ID
   - [X] Summary: 
-   -Vulnerability types: XSS
-   -Tested in version: 4.1-4.2.1
-   -Fixed in version: 4.2.2
+   - Vulnerability types: XSS
+   - Tested in version: 4.1-4.2.1
+   - Fixed in version: 4.2.2
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
