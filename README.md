@@ -26,6 +26,7 @@ Time spent: **17** hours spent in total
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
+   <img src='vid2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [X] Steps to recreate:
   - Edit a new post, and insert  http:// site.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(1)> and press preview.  Then 1 will pop up in the new window. 
   - [X] Affected source code:
@@ -36,6 +37,7 @@ Time spent: **17** hours spent in total
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
+   <img src='vid3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [X] Steps to recreate: 
   - Edit a new post, and insert  http:// site.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(3)> and press preview.  Then 3 will pop up in the new window. 
   - [X] Affected source code:
@@ -46,8 +48,9 @@ Time spent: **17** hours spent in total
    - Tested in version: 4.1-4.2.1
    - Fixed in version: 4.2.2
   - [X] GIF Walkthrough: 
+   <img src='vid4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [X] Steps to recreate: 
-  - Edit a new post, and insert  <a href="[caption code=">]</a><a title =" onmouseover=alert('Exploit4!') "> dont click the link.</a> in the content link. Once you click the link the 'Exploit4!' window will pop up. 
+  - Edit a new post, and insert " <a href="[caption code=">]</a><a title =" onmouseover=alert('Exploit4!') "> dont click the link.</a> " in the content link. Once you click the link the 'Exploit4!' window will pop up. 
   - [X] Affected source code:
    
 
