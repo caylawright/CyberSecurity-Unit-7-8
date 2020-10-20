@@ -16,6 +16,9 @@ Time spent: **17** hours spent in total
   <img src='vid1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
   - [X] Steps to recreate: 
+ - Download the 3.1.3 zip file
+ - Add the WordPress admin console through WP Dashboard. 
+ - Once installed run "wpscan --url http://wpdistillery.vm --random-agent" into Kali
   - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. (Required) Cross-Site Scripting (XSS)
